@@ -98,7 +98,7 @@ const Hero = () => (
   <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
     <div className="absolute inset-0 z-0">
       <img 
-        src="/marion-botella-uaHShoIDGeo-unsplash.jpg"
+        src="/hero-image-1.avif"
         className="w-full h-full object-cover brightness-50"
         alt="Sri Lankan Spice Plantation"
         referrerPolicy="no-referrer"
