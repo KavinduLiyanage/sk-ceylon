@@ -21,7 +21,7 @@ const spices = [
     name: "Ceylon Cinnamon",
     scientific: "Cinnamomum zeylanicum",
     description: "The world's finest 'true' cinnamon, known for its delicate flavor and medicinal properties.",
-    image: "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&q=80&w=800",
+    image: "/products/cinnamon.avif",
     color: "bg-amber-100"
   },
   {
@@ -35,14 +35,14 @@ const spices = [
     name: "Green Cardamom",
     scientific: "Elettaria cardamomum",
     description: "Known as the 'Queen of Spices', our cardamom is hand-picked for its intense aroma.",
-    image: "https://images.unsplash.com/photo-1599940778173-e276d4acb2bb?auto=format&fit=crop&q=80&w=800",
+    image: "/products/cardamom.avif",
     color: "bg-emerald-50"
   },
   {
     name: "Cloves",
     scientific: "Syzygium aromaticum",
     description: "Harvested from the lush hills, our cloves are rich in essential oils and deep in flavor.",
-    image: "https://images.unsplash.com/photo-1611079830811-865ff4428d17?auto=format&fit=crop&q=80&w=800",
+    image: "/products/cloves.avif",
     color: "bg-red-50"
   }
 ];
